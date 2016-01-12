@@ -2,7 +2,7 @@ import random
 import time
 
 #Einleitung
-uprint("Schere|Stein|Papier|Echse|Spock");time.sleep(0.5)
+print("Schere|Stein|Papier|Echse|Spock");time.sleep(0.5)
 print("Regeln: Stein schlägt Schere");time.sleep(1)
 print("Regeln: Papier schlägt Stein");time.sleep(1)
 print("Regeln: Echse schlägt Papier");time.sleep(1)
